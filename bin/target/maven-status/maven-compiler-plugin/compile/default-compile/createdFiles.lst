@@ -1,0 +1,4 @@
+com\itbibo\example\web\calc\CalcInit.class
+com\itbibo\example\web\hello\HelloWorld.class
+com\itbibo\example\web\calc\CalcExcAdd.class
+com\itbibo\example\web\calc\CalcExcMul.class

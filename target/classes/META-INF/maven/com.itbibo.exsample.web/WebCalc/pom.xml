@@ -321,12 +321,6 @@
           <configLocation>config/your_project_checkstyle.xml</configLocation>
         </configuration>
       </plugin>
-      <!-- https://mvnrepository.com/artifact/com.github.spotbugs/spotbugs-maven-plugin -->
-      <plugin>
-        <groupId>com.github.spotbugs</groupId>
-        <artifactId>spotbugs-maven-plugin</artifactId>
-        <version>4.0.0</version>
-      </plugin>
       <!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin -->
       <plugin>
         <groupId>org.jacoco</groupId>
