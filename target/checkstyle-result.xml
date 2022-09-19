@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="C:\pleiades\2022-06\workspace\WebCalc\src\main\java\com\itbibo\example\web\calc\CalcExcAdd.java">
+</file>
+<file name="C:\pleiades\2022-06\workspace\WebCalc\src\main\java\com\itbibo\example\web\calc\CalcExcMul.java">
+</file>
+<file name="C:\pleiades\2022-06\workspace\WebCalc\src\main\java\com\itbibo\example\web\calc\CalcInit.java">
+</file>
+<file name="C:\pleiades\2022-06\workspace\WebCalc\src\main\java\com\itbibo\example\web\hello\HelloWorld.java">
+</file>
+</checkstyle>
